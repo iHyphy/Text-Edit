@@ -1,6 +1,7 @@
 {
     "short_name": "App",
     "name": "My Awesome Web Application",
+    "description": "a PWA text editor!",
     "icons": [
       {
         "src": "favicon.ico",
